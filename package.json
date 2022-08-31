@@ -1,0 +1,23 @@
+{
+  "name": "learn-redux-toolkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BisheshAgarwal/learn-redux-toolkit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BisheshAgarwal/learn-redux-toolkit/issues"
+  },
+  "homepage": "https://github.com/BisheshAgarwal/learn-redux-toolkit#readme",
+  "dependencies": {
+    "redux": "^4.2.0"
+  }
+}
